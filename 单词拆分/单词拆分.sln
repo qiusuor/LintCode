@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单词拆分", "单词拆分\单词拆分.vcxproj", "{E1564819-0C8B-4B21-877F-D02466B1F8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Debug|x64.ActiveCfg = Debug|x64
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Debug|x64.Build.0 = Debug|x64
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Debug|x86.Build.0 = Debug|Win32
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Release|x64.ActiveCfg = Release|x64
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Release|x64.Build.0 = Release|x64
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Release|x86.ActiveCfg = Release|Win32
+		{E1564819-0C8B-4B21-877F-D02466B1F8A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88EDD7D-3A00-4146-A229-7070386AAB5E}
+	EndGlobalSection
+EndGlobal
