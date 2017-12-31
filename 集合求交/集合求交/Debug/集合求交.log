@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\集合求交\集合求交\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\集合求交\集合求交\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+  集合求交.vcxproj -> c:\users\qiusuo\source\repos\集合求交\Debug\集合求交.exe
+  集合求交.vcxproj -> c:\users\qiusuo\source\repos\集合求交\Debug\集合求交.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\移动零-动态数组\移动零-动态数组\源.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\移动零-动态数组\移动零-动态数组\源.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  移动零-动态数组.vcxproj -> c:\users\qiusuo\source\repos\移动零-动态数组\Debug\移动零-动态数组.exe
+  移动零-动态数组.vcxproj -> c:\users\qiusuo\source\repos\移动零-动态数组\Debug\移动零-动态数组.pdb (Partial PDB)

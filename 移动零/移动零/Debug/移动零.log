@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\移动零\移动零\源.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\移动零\移动零\源.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  移动零.vcxproj -> C:\Users\qiusuo\source\repos\移动零\Debug\移动零.exe
+  移动零.vcxproj -> C:\Users\qiusuo\source\repos\移动零\Debug\移动零.pdb (Partial PDB)
