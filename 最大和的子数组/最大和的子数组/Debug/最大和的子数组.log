@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\最大和的子数组\最大和的子数组\源.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\最大和的子数组\最大和的子数组\源.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  最大和的子数组.vcxproj -> C:\Users\qiusuo\source\repos\最大和的子数组\Debug\最大和的子数组.exe
+  最大和的子数组.vcxproj -> C:\Users\qiusuo\source\repos\最大和的子数组\Debug\最大和的子数组.pdb (Partial PDB)

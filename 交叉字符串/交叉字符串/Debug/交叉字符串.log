@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\交叉字符串\交叉字符串\源.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\交叉字符串\交叉字符串\源.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\交叉字符串\交叉字符串\源.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  交叉字符串.vcxproj -> C:\Users\qiusuo\source\repos\交叉字符串\Debug\交叉字符串.exe
+  交叉字符串.vcxproj -> C:\Users\qiusuo\source\repos\交叉字符串\Debug\交叉字符串.pdb (Partial PDB)

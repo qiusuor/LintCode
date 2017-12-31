@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\qiusuo\desktop\lintcode\统计数字\统计数字\源.cpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\qiusuo\desktop\lintcode\统计数字\统计数字\源.cpp(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\qiusuo\desktop\lintcode\统计数字\统计数字\源.cpp(64): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  统计数字.vcxproj -> C:\Users\qiusuo\Desktop\LintCode\统计数字\Debug\统计数字.exe
+  统计数字.vcxproj -> C:\Users\qiusuo\Desktop\LintCode\统计数字\Debug\统计数字.pdb (Partial PDB)
