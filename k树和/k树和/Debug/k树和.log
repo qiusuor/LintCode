@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\k树和\k树和\源.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\k树和\k树和\源.cpp(22): warning C4018: “<=”: 有符号/无符号不匹配
+  k树和.vcxproj -> C:\Users\qiusuo\source\repos\k树和\Debug\k树和.exe
+  k树和.vcxproj -> C:\Users\qiusuo\source\repos\k树和\Debug\k树和.pdb (Partial PDB)
